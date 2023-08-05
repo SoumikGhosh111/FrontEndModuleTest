@@ -522,9 +522,9 @@ header input{
    { 
       width: 100% ;
    }
-   /* header ul{  
+   .navbar{  
       display: none;
-   /* } */
+   }
    .display{ 
       display: block;
    }
@@ -583,7 +583,7 @@ header input{
       align-items: center;
       justify-content: center;
    }
-   .navbar{ 
+   /* .navbar{ 
       position: absolute;
       top: 100%;
       right: -100%;
@@ -598,7 +598,7 @@ header input{
    } 
     .navbar.open{ 
       right: 2%;
-    }
+    } */
 
 }
 
